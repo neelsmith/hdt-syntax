@@ -1,0 +1,31 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.1-1.6.2.19a|29|
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749645636211_5508|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.1-1.6.2.19a
+vu_1749645704910_7d08|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.1-1.6.2.19a
+vu_1749645725060_c0c8|subordinate clause|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.1-1.6.2.19a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.1|1|lexical|οὗτος|vu_1749645636211_5508|3|pronoun||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.2|2|lexical|ὁ|vu_1749645636211_5508|3|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.3|3|lexical|Κροῖσος|vu_1749645636211_5508|11|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.4|4|lexical|βαρβάρων|vu_1749645636211_5508|5|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.5|5|lexical|πρῶτος|vu_1749645636211_5508|3|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.6|6|lexical|τῶν|vu_1749645725060_c0c8|4|relative pronoun|8|direct object
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.7|7|lexical|ἡμεῖς|vu_1749645725060_c0c8|8|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.8|8|lexical|ἴδμεν|vu_1749645725060_c0c8|6|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.9|9|lexical|τοὺς|vu_1749645636211_5508|11|direct object||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.10|10|lexical|μὲν|vu_1749645636211_5508|9|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.11|11|lexical|κατεστρέψατο|vu_1749645636211_5508||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.12|12|lexical|̔Ελλήνων|vu_1749645636211_5508|10|genitive|18|genitive
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.13|13|lexical|ἐς|vu_1749645636211_5508|11|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.14|14|lexical|φόρου|vu_1749645636211_5508|15|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.15|15|lexical|ἀπαγωγήν|vu_1749645636211_5508|13|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.16|17|lexical|τοὺς|vu_1749645704910_7d08|20|direct object||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.17|18|lexical|δὲ|vu_1749645704910_7d08|17|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.18|19|lexical|φίλους|vu_1749645704910_7d08|20|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.2.19|20|lexical|προσεποιήσατο|vu_1749645704910_7d08||||
