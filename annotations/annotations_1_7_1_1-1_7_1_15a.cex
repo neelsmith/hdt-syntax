@@ -1,0 +1,27 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.1-1.7.1.15a|32|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.2
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749649265439_3ea4|independent clause|intransitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.1-1.7.1.15a
+vu_1749649297339_7e48|circumstantial participle|linking|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.1-1.7.1.15a
+vu_1749649330602_9aca|circumstantial participle|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.1-1.7.1.15a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.1|1|lexical|ἡ|vu_1749649265439_3ea4|3|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.2|2|lexical|δὲ|vu_1749649265439_3ea4||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.3|3|lexical|ἡγεμονίη|vu_1749649265439_3ea4|5|subject|7|subject
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.4|4|lexical|οὕτω|vu_1749649265439_3ea4|5|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.5|5|lexical|περιῆλθε|vu_1749649265439_3ea4|2|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.6|7|lexical|ἐοῦσα|vu_1749649297339_7e48|3|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.7|8|lexical|̔Ηρακλειδέων|vu_1749649297339_7e48|7|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.8|9|lexical|ἐς|vu_1749649265439_3ea4|5|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.9|10|lexical|τὸ|vu_1749649265439_3ea4|11|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.10|11|lexical|γένος|vu_1749649265439_3ea4|9|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.11|12|lexical|τὸ|vu_1749649265439_3ea4|11|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.12|13|lexical|Κροίσου|vu_1749649265439_3ea4|11|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.13|15|lexical|καλεομένους|vu_1749649330602_9aca|17|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.14|16|lexical|δὲ|vu_1749649330602_9aca|11|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.1.15|17|lexical|Μερμνάδας|vu_1749649330602_9aca|11|attributive|15|subject
