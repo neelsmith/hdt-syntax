@@ -1,0 +1,50 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a|28|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.4
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749643440249_57dd|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+vu_1749643465616_4bd7|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+vu_1749643685048_62c8|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+vu_1749643716899_5374|subordinate clause|intransitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+vu_1749643754398_f218|circumstantial participle|intransitive|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+vu_1749643791514_2f70|attributive participle|transitive|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1-1.6.1.33a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.1|1|lexical|Κροῖσος|vu_1749643440249_57dd|2|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.2|2|lexical|ἦν|vu_1749643440249_57dd|4|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.3|3|lexical|Λυδὸς|vu_1749643440249_57dd|2|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.4|4|lexical|μὲν|vu_1749643440249_57dd||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.5|5|lexical|γένος|vu_1749643440249_57dd|3|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.6|7|lexical|παῖς|vu_1749643465616_4bd7|-1|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.7|8|lexical|δὲ|vu_1749643465616_4bd7|4|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.8|9|lexical|̓Αλυάττεω|vu_1749643465616_4bd7|7|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.9|11|lexical|τύραννος|vu_1749643685048_62c8|12|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.10|12|lexical|δὲ|vu_1749643685048_62c8|8|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.11|13|lexical|ἐθνέων|vu_1749643685048_62c8|11|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.12|14|lexical|τῶν|vu_1749643685048_62c8|13|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.13|15|lexical|ἐντός|vu_1749643685048_62c8|14|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.14|16|lexical|̔́Αλυος|vu_1749643685048_62c8|17|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.15|17|lexical|ποταμοῦ|vu_1749643685048_62c8|15|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.16|19|lexical|ὃς|vu_1749643716899_5374|17|unit verb|28|subject
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.17|20|lexical|ῥέων|vu_1749643754398_f218|19|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.18|21|lexical|ἀπὸ|vu_1749643754398_f218|20|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.19|22|lexical|μεσαμβρίης|vu_1749643754398_f218|21|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.20|23|lexical|μεταξὺ|vu_1749643754398_f218|20|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.21|24|lexical|Συρίων|vu_1749643754398_f218|23|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.22|25|lexical|τε|vu_1749643754398_f218|24|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.23|26|lexical|καὶ|vu_1749643754398_f218|27|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.24|27|lexical|Παφλαγόνων|vu_1749643754398_f218|23|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.25|28|lexical|ἐξιεῖ|vu_1749643716899_5374|19|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.26|29|lexical|πρὸς|vu_1749643716899_5374|28|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.27|30|lexical|βορέην|vu_1749643716899_5374|31|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.28|31|lexical|ἄνεμον|vu_1749643716899_5374|29|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.29|32|lexical|ἐς|vu_1749643716899_5374|28|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.30|33|lexical|τὸν|vu_1749643716899_5374|36|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.31|34|lexical|Εὔξεινον|vu_1749643791514_2f70|35|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.32|35|lexical|καλεόμενον|vu_1749643791514_2f70|33|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.6.1.33|36|lexical|πόντον|vu_1749643716899_5374|32|object of preposition||
+implied|-1|implied|implied|vu_1749643465616_4bd7|8|unit verb||
+implied|-2|implied|implied|vu_1749643685048_62c8|12|unit verb||
