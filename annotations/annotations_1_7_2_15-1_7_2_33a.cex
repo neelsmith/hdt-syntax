@@ -1,0 +1,31 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.15-1.7.2.33a|34|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.16
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749650600520_21dd|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.15-1.7.2.33a
+vu_1749650630751_a03e|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.15-1.7.2.33a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.15|19|lexical|̓́Αγρων|vu_1749650600520_21dd|31|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.16|20|lexical|μὲν|vu_1749650600520_21dd||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.17|21|lexical|γὰρ|vu_1749650600520_21dd|20|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.18|22|lexical|ὁ|vu_1749650600520_21dd|19|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.19|23|lexical|Νίνου|vu_1749650600520_21dd|19|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.20|24|lexical|τοῦ|vu_1749650600520_21dd|23|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.21|25|lexical|Βήλου|vu_1749650600520_21dd|23|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.22|26|lexical|τοῦ|vu_1749650600520_21dd|25|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.23|27|lexical|̓Αλκαίου|vu_1749650600520_21dd|25|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.24|28|lexical|πρῶτος|vu_1749650600520_21dd|19|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.25|29|lexical|̔Ηρακλειδέων|vu_1749650600520_21dd|28|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.26|30|lexical|βασιλεὺς|vu_1749650600520_21dd|31|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.27|31|lexical|ἐγένετο|vu_1749650600520_21dd|20|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.28|32|lexical|Σαρδίων|vu_1749650600520_21dd|30|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.29|34|lexical|Κανδαύλης|vu_1749650630751_a03e|-1|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.30|35|lexical|δὲ|vu_1749650630751_a03e|20|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.31|36|lexical|ὁ|vu_1749650630751_a03e|34|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.32|37|lexical|Μύρσου|vu_1749650630751_a03e|34|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.33|38|lexical|ὕστατος|vu_1749650630751_a03e|-1|predicate||
+implied|-1|implied|implied|vu_1749650630751_a03e|35|unit verb||

@@ -1,0 +1,40 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a|40|
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749653785694_8944|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+vu_1749653807644_496c|subordinate clause|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+vu_1749653831225_9880|subordinate clause|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+vu_1749653851975_ef1d|indirect statement with infinitive|transitive|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+vu_1749653871241_e1cc|circumstantial participle|transitive|4|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+vu_1749653919326_fac5|subordinate clause|linking|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16-1.8.2.40a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.16|17|lexical|“Γύγη|vu_1749653785694_8944|39|direct address||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.17|19|lexical|οὐ|vu_1749653831225_9880|22|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.18|20|lexical|γὰρ|vu_1749653831225_9880|39|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.19|21|lexical|σε|vu_1749653851975_ef1d|23|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.20|22|lexical|δοκέω|vu_1749653831225_9880|20|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.21|23|lexical|πείθεσθαι|vu_1749653851975_ef1d|22|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.22|24|lexical|μοι|vu_1749653851975_ef1d|23|direct object||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.23|25|lexical|λέγοντι|vu_1749653871241_e1cc|24|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.24|26|lexical|περὶ|vu_1749653871241_e1cc|25|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.25|27|lexical|τοῦ|vu_1749653871241_e1cc|28|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.26|28|lexical|εἴδεος|vu_1749653871241_e1cc|26|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.27|29|lexical|τῆς|vu_1749653871241_e1cc|30|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.28|30|lexical|γυναικός|vu_1749653871241_e1cc|28|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.29|31|lexical|（ὦτα|vu_1749653919326_fac5|33|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.30|32|lexical|γὰρ|vu_1749653919326_fac5|23|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.31|33|lexical|τυγχάνει|vu_1749653919326_fac5|32|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.32|34|lexical|ἀνθρώποισι|vu_1749653919326_fac5|35|dative||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.33|35|lexical|ἐόντα|vu_1749653919326_fac5|33|supplementary participle||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.34|36|lexical|ἀπιστότερα|vu_1749653919326_fac5|35|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.35|37|lexical|ὀφθαλμῶν）|vu_1749653919326_fac5|36|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.36|39|lexical|ποίεε|vu_1749653785694_8944||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.37|40|lexical|ὅκως|vu_1749653807644_496c|39|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.38|41|lexical|ἐκείνην|vu_1749653807644_496c|43|pronoun||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.39|42|lexical|θεήσεαι|vu_1749653807644_496c|40|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.40|43|lexical|γυμνήν|vu_1749653807644_496c|42|predicate||

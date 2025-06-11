@@ -1,0 +1,27 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.1-1.7.2.14a|33|
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749649959695_19d5|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.1-1.7.2.14a
+vu_1749649975160_cdbe|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.1-1.7.2.14a
+vu_1749649994927_3645|subordinate clause|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.1-1.7.2.14a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.1|1|lexical|ἦν|vu_1749649959695_19d5||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.2|2|lexical|Κανδαύλης|vu_1749649959695_19d5|1|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.3|4|lexical|τὸν|vu_1749649994927_3645|2|relative pronoun|8|direct object
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.4|5|lexical|οἱ|vu_1749649994927_3645|6|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.5|6|lexical|̔́Ελληνές|vu_1749649994927_3645|8|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.6|7|lexical|Μυρσίλον|vu_1749649994927_3645|8|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.7|8|lexical|ὀνομάζουσι|vu_1749649994927_3645|4|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.8|10|lexical|τύραννος|vu_1749649959695_19d5|1|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.9|11|lexical|Σαρδίων|vu_1749649959695_19d5|10|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.10|13|lexical|ἀπόγονος|vu_1749649975160_cdbe|-1|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.11|14|lexical|δὲ|vu_1749649975160_cdbe|1|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.12|15|lexical|̓Αλκαίου|vu_1749649975160_cdbe|13|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.13|16|lexical|τοῦ|vu_1749649975160_cdbe|15|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.2.14|17|lexical|̔Ηρακλέος|vu_1749649975160_cdbe|15|attributive||
+implied|-1|implied|implied|vu_1749649975160_cdbe|14|unit verb||

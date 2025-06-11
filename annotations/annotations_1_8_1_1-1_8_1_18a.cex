@@ -1,0 +1,31 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1-1.8.1.18a|37|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.3
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749652532278_7068|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1-1.8.1.18a
+vu_1749652567642_e6a5|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1-1.8.1.18a
+vu_1749652587708_107b|circumstantial participle|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1-1.8.1.18a
+vu_1749652615623_7d8c|indirect statement with infinitive|linking|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1-1.8.1.18a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.1|1|lexical|οὗτος|vu_1749652532278_7068|5|pronoun||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.2|2|lexical|δὴ|vu_1749652532278_7068|1|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.3|3|lexical|ὦν|vu_1749652532278_7068||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.4|4|lexical|ὁ|vu_1749652532278_7068|5|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.5|5|lexical|Κανδαύλης|vu_1749652532278_7068|6|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.6|6|lexical|ἠράσθη|vu_1749652532278_7068|3|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.7|7|lexical|τῆς|vu_1749652532278_7068|9|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.8|8|lexical|ἑωυτοῦ|vu_1749652532278_7068|9|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.9|9|lexical|γυναικός|vu_1749652532278_7068|6|direct object||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.10|11|lexical|ἐρασθεὶς|vu_1749652587708_107b|5|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.11|12|lexical|δὲ|vu_1749652567642_e6a5|6|conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.12|13|lexical|ἐνόμιζέ|vu_1749652567642_e6a5|12|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.13|14|lexical|οἱ|vu_1749652615623_7d8c|15|dative||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.14|15|lexical|εἶναι|vu_1749652615623_7d8c|13|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.15|16|lexical|γυναῖκα|vu_1749652615623_7d8c|15|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.16|17|lexical|πολλὸν|vu_1749652615623_7d8c|18|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.17|18|lexical|πασέων|vu_1749652615623_7d8c|19|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.1.18|19|lexical|καλλίστην|vu_1749652615623_7d8c|16|attributive||

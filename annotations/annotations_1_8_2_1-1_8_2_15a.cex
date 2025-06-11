@@ -1,0 +1,28 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1-1.8.2.15a|39|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.2
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749653418793_b4bb|circumstantial participle|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1-1.8.2.15a
+vu_1749653438408_fa99|independent clause|transitive|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1-1.8.2.15a
+vu_1749653466174_d047|subordinate clause|intransitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1-1.8.2.15a
+vu_1749653612868_6c64|indirect statement with infinitive|transitive|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1-1.8.2.15a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.1|1|lexical|χρόνου|vu_1749653418793_b4bb|5|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.2|2|lexical|δὲ|vu_1749653438408_fa99||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.3|3|lexical|οὐ|vu_1749653418793_b4bb|4|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.4|4|lexical|πολλοῦ|vu_1749653418793_b4bb|1|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.5|5|lexical|διελθόντος|vu_1749653418793_b4bb|11|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.6|6|lexical|（χρῆν|vu_1749653466174_d047|7|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.7|7|lexical|γὰρ|vu_1749653466174_d047|11|subordinate conjunction||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.8|8|lexical|Κανδαύλῃ|vu_1749653612868_6c64|9|dative||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.9|9|lexical|γενέσθαι|vu_1749653612868_6c64|6|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.10|10|lexical|κακῶς）|vu_1749653612868_6c64|9|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.11|11|lexical|ἔλεγε|vu_1749653438408_fa99|2|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.12|12|lexical|πρὸς|vu_1749653438408_fa99|11|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.13|13|lexical|τὸν|vu_1749653438408_fa99|14|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.14|14|lexical|Γύγην|vu_1749653438408_fa99|12|object of preposition||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.8.2.15|15|lexical|τοιάδε|vu_1749653438408_fa99|11|direct object||

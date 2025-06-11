@@ -1,0 +1,38 @@
+#!sentences
+sentence|sequence|connector
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1-1.7.3.25a|35|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.2
+
+#!verbal_units
+vuid|syntactic_type|semantic_type|depth|sentence
+vu_1749650887375_2f10|independent clause|linking|1|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1-1.7.3.25a
+vu_1749650923856_19e6|subordinate clause|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1-1.7.3.25a
+vu_1749650947323_7fa6|circumstantial participle|transitive|3|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1-1.7.3.25a
+vu_1749650988871_2857|attributive participle|transitive|2|urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1-1.7.3.25a
+
+#!tokens
+urn|reference|tokentype|text|verbalunit|node1|node1relation|node2|node2relation
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.1|1|lexical|οἱ|vu_1749650887375_2f10|9|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.2|2|lexical|δὲ|vu_1749650887375_2f10||||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.3|3|lexical|πρότερον|vu_1749650988871_2857|5|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.4|4|lexical|̓́Αγρωνος|vu_1749650988871_2857|3|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.5|5|lexical|βασιλεύσαντες|vu_1749650988871_2857|1|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.6|6|lexical|ταύτης|vu_1749650988871_2857|8|pronoun||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.7|7|lexical|τῆς|vu_1749650988871_2857|8|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.8|8|lexical|χώρης|vu_1749650988871_2857|5|direct object||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.9|9|lexical|ἦσαν|vu_1749650887375_2f10|2|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.10|10|lexical|ἀπόγονοὶ|vu_1749650887375_2f10|9|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.11|11|lexical|Λυδοῦ|vu_1749650887375_2f10|10|genitive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.12|12|lexical|τοῦ|vu_1749650887375_2f10|11|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.13|13|lexical|̓́Ατυος|vu_1749650887375_2f10|11|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.14|15|lexical|ἀπ'|vu_1749650923856_19e6|20|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.15|16|lexical|ὅτευ|vu_1749650923856_19e6|11|relative pronoun|15|object of preposition
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.16|17|lexical|ὁ|vu_1749650923856_19e6|18|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.17|18|lexical|δῆμος|vu_1749650923856_19e6|20|subject||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.18|19|lexical|Λύδιος|vu_1749650923856_19e6|20|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.19|20|lexical|ἐκλήθη|vu_1749650923856_19e6|16|unit verb||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.20|21|lexical|ὁ|vu_1749650923856_19e6|18|article||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.21|22|lexical|πᾶς|vu_1749650923856_19e6|18|attributive||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.22|23|lexical|οὗτος|vu_1749650923856_19e6|18|pronoun||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.23|25|lexical|πρότερον|vu_1749650947323_7fa6|27|adverbial||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.24|26|lexical|Μηίων|vu_1749650947323_7fa6|27|predicate||
+urn:cts:greekLit:tlg0016.tlg001.omar.tokens:1.7.3.25|27|lexical|καλεόμενος|vu_1749650947323_7fa6|18|unit verb||
