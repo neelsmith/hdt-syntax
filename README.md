@@ -1,1 +1,1 @@
-# het-syntax
+# hdt-syntax
